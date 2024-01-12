@@ -10,6 +10,11 @@ Colaborators:
 - Vinicius Bestetti
 - Guilherme Gambeti
 
+## Requirements
+
+- node -v >= `18.17.0`
+- yarn -v >= `1.22.19`
+
 ## Running app
 
 - To run web app in developmet mode, please run
